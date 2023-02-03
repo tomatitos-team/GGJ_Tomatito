@@ -887,3 +887,43 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.03-19.24.14:263][  0]LogAssetRegistry: Asset discovery search completed in 4.0994 seconds
 [2023.02.03-19.24.14:269][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2023.02.03-19.24.14:271][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.03-19.28.11:298][350]LogSlate: Window 'Save Level As' being destroyed
+[2023.02.03-19.28.11:315][350]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.03-19.28.11:343][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.02.03-19.28.11:356][350]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/MapBasicEED901864DE2C162268E6D8D0BDB0CEB.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/MapBasic.umap'
+[2023.02.03-19.28.11:361][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapBasic_BuiltData" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/MapBasic_BuiltData.uasset" SILENT=true
+[2023.02.03-19.28.11:379][350]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/MapBasic_BuiltData3D8080314EA5F6A32B60F08138196E1C.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/MapBasic_BuiltData.uasset'
+[2023.02.03-19.28.11:394][350]LogFileHelpers: Saving map 'MapBasic' took 0.087
+[2023.02.03-19.28.11:400][350]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.03-19.28.11:400][350]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MapBasic_BuiltData.MapBasic_BuiltData
+[2023.02.03-19.28.11:400][350]LogContentValidation: Display: Validating World /Game/MapBasic.MapBasic
+[2023.02.03-19.28.11:434][352]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.03-19.28.13:388][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.02.03-19.28.13:395][577]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/MapBasic73D64C7343E7ED05E2C9FDB0799AE379.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/MapBasic.umap'
+[2023.02.03-19.28.13:399][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapBasic_BuiltData" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/MapBasic_BuiltData.uasset" SILENT=true
+[2023.02.03-19.28.13:410][577]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/MapBasic_BuiltDataB16B22A04D175CD916BA8D8492720787.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/MapBasic_BuiltData.uasset'
+[2023.02.03-19.28.13:421][577]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.03-19.28.13:421][577]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MapBasic_BuiltData.MapBasic_BuiltData
+[2023.02.03-19.28.13:421][577]LogContentValidation: Display: Validating World /Game/MapBasic.MapBasic
+[2023.02.03-19.28.23:155][633]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2023.02.03-19.28.23:155][633]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2023.02.03-19.28.23:155][633]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2023.02.03-19.28.23:155][633]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2023.02.03-19.28.23:155][633]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2023.02.03-19.28.23:155][633]LogWindows: Warning: URL: C:\Users\adria\AppData\Local/Programs/Git/cmd/git.exe version
+[2023.02.03-19.28.23:155][633]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2023.02.03-19.28.23:155][633]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2023.02.03-19.28.23:155][633]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2023.02.03-19.28.23:155][633]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2023.02.03-19.28.23:155][633]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2023.02.03-19.28.23:155][633]LogWindows: Warning: URL: C:\Users\adria\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2023.02.03-19.28.23:156][633]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2023.02.03-19.28.23:156][633]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2023.02.03-19.28.56:764][ 95]LogWindows: Warning: CreateProc failed: Acceso denegado. (0x00000005)
+[2023.02.03-19.28.56:764][ 95]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/ version
+[2023.02.03-19.29.03:391][870]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2023.02.03-19.29.03:391][870]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/https://github.com/tomatitos-team/GGJ_Tomatito.git version
+[2023.02.03-19.29.26:688][352]LogWindows: Warning: CreateProc failed: Acceso denegado. (0x00000005)
+[2023.02.03-19.29.26:689][352]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/ version
+[2023.02.03-19.29.42:180][183]SourceControl: Source control is disabled
+[2023.02.03-19.29.42:180][183]LogSlate: Window 'Source Control Login' being destroyed
