@@ -927,3 +927,28 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.03-19.29.26:689][352]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/ version
 [2023.02.03-19.29.42:180][183]SourceControl: Source control is disabled
 [2023.02.03-19.29.42:180][183]LogSlate: Window 'Source Control Login' being destroyed
+[2023.02.03-19.30.44:813][323]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.03-19.30.44:820][323]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.03-19.30.49:283][858]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2023.02.03-19.30.49:283][858]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.03-19.30.53:420][324]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/MapBasic_BuiltData58ADE7254A19D4C299285882CA78152A.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Levels/MapBasic_BuiltData.uasset'
+[2023.02.03-19.30.53:426][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.02.03-19.30.53:433][324]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/MapBasic1AE72B654D1E761C20C9449EBE90C506.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Levels/MapBasic.umap'
+[2023.02.03-19.30.53:435][324]LogFileHelpers: Saving map 'MapBasic' took 0.015
+[2023.02.03-19.30.53:485][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.02.03-19.30.53:490][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.02.03-19.30.53:502][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.02.03-19.30.53:507][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.02.03-19.30.53:533][324]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.03-19.30.53:533][324]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MapBasic_BuiltData.MapBasic_BuiltData
+[2023.02.03-19.30.53:533][324]LogContentValidation: Display: Validating World /Game/Levels/MapBasic.MapBasic
+[2023.02.03-19.30.56:619][647]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.03-19.30.56:628][647]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.03-19.30.59:445][985]LogContentBrowser: Attempting asset rename: NewFolder -> Gameplay
+[2023.02.03-19.30.59:446][985]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.03-19.31.03:272][415]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.03-19.31.04:605][415]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.02.03-19.31.04:610][415]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.02.03-19.31.04:616][415]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.02.03-19.31.16:301][817]LogContentBrowser: Attempting asset rename: NewBlueprint -> MainActor
+[2023.02.03-19.31.16:307][817]LogContentBrowser: End creating deferred item NewBlueprint
