@@ -1,0 +1,1082 @@
+﻿Log file open, 02/04/23 09:27:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GGJ_TomatitoPoject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.233383
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Engine.ini]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Engine.ini]
+[2023.02.04-08.27.06:088][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Engine.ini]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Engine.ini]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.02.04-08.27.06:088][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Engine.ini]
+[2023.02.04-08.27.06:088][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Engine.ini]
+[2023.02.04-08.27.06:096][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Scalability.ini]
+[2023.02.04-08.27.06:096][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.04-08.27.06:096][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.04-08.27.06:096][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Scalability.ini]
+[2023.02.04-08.27.06:096][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.04-08.27.06:096][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Scalability.ini]
+[2023.02.04-08.27.06:096][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.04-08.27.06:096][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Scalability.ini]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Scalability.ini]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Scalability.ini]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Scalability.ini]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.04-08.27.06:097][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Scalability.ini]
+[2023.02.04-08.27.06:097][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.02.04-08.27.06:098][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.04-08.27.06:098][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.02.04-08.27.06:098][  0]LogHAL: Display: Platform has ~ 16 GB [17013784576 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.02.04-08.27.06:098][  0]LogInit: Going up to parent DeviceProfile []
+[2023.02.04-08.27.06:098][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Scalability.ini]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Scalability.ini]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Scalability.ini]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Scalability.ini]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Scalability.ini]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Scalability.ini]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.04-08.27.06:098][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Scalability.ini]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Scalability.ini]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.02.04-08.27.06:099][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Engine.ini]
+[2023.02.04-08.27.06:099][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Config/Windows/Editor.ini]
+[2023.02.04-08.27.06:099][  0]LogInit: Computer: DESKTOP-6U7BAGV
+[2023.02.04-08.27.06:099][  0]LogInit: User: adria
+[2023.02.04-08.27.06:099][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.02.04-08.27.06:099][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.02.04-08.27.06:099][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2023.02.04-08.27.06:099][  0]LogMemory: Platform Memory Stats for Windows
+[2023.02.04-08.27.06:099][  0]LogMemory: Process Physical Memory: 144.05 MB used, 144.05 MB peak
+[2023.02.04-08.27.06:099][  0]LogMemory: Process Virtual Memory: 129.69 MB used, 129.69 MB peak
+[2023.02.04-08.27.06:100][  0]LogMemory: Physical Memory: 7318.22 MB used,  8907.39 MB free, 16225.61 MB total
+[2023.02.04-08.27.06:100][  0]LogMemory: Virtual Memory: 134205952.00 MB used,  11779.63 MB free, 134217728.00 MB total
+[2023.02.04-08.27.06:104][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.02.04-08.27.06:141][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.02.04-08.27.06:142][  0]LogInit: Overriding language with editor language configuration option (en).
+[2023.02.04-08.27.06:142][  0]LogInit: Using OS detected locale (es-ES).
+[2023.02.04-08.27.06:309][  0]LogInit: Setting process to per monitor DPI aware
+[2023.02.04-08.27.06:322][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.02.04-08.27.06:332][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.02.04-08.27.06:332][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.02.04-08.27.06:457][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.02.04-08.27.06:495][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.02.04-08.27.06:495][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.02.04-08.27.06:495][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.02.04-08.27.06:495][  0]LogD3D11RHI: D3D11 adapters:
+[2023.02.04-08.27.06:607][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2023.02.04-08.27.06:607][  0]LogD3D11RHI:       5980/0/8112 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.02.04-08.27.06:644][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2023.02.04-08.27.06:644][  0]LogD3D11RHI:       128/0/8112 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.02.04-08.27.06:646][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.02.04-08.27.06:646][  0]LogD3D11RHI:       0/0/8112 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.02.04-08.27.06:646][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.02.04-08.27.06:646][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2023.02.04-08.27.06:646][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.02.04-08.27.06:646][  0]LogD3D11RHI:     DeviceId    : 1f15
+[2023.02.04-08.27.06:646][  0]LogD3D11RHI:     SubSysId    : 12aa1462
+[2023.02.04-08.27.06:646][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.02.04-08.27.06:646][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2023.02.04-08.27.06:646][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.02.04-08.27.06:646][  0]LogD3D11RHI:     SharedSystemMemory : 8506892288 bytes
+[2023.02.04-08.27.06:646][  0]LogD3D11RHI:     AdapterLuid : 0 59347
+[2023.02.04-08.27.06:651][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.02.04-08.27.06:651][  0]LogD3D11RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2023.02.04-08.27.06:651][  0]LogWindows: EnumDisplayDevices:
+[2023.02.04-08.27.06:651][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2023.02.04-08.27.06:652][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2023.02.04-08.27.06:652][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2023.02.04-08.27.06:652][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2023.02.04-08.27.06:652][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2023.02.04-08.27.06:652][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2023.02.04-08.27.06:652][  0]LogD3D11RHI:   Driver Version: 496.49 (internal:30.0.14.9649, unified:496.49)
+[2023.02.04-08.27.06:652][  0]LogD3D11RHI:      Driver Date: 10-20-2021
+[2023.02.04-08.27.06:652][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2023.02.04-08.27.06:652][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.02.04-08.27.06:652][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2023.02.04-08.27.06:652][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.02.04-08.27.06:652][  0]LogD3D11RHI:     DeviceId    : 1f15
+[2023.02.04-08.27.06:652][  0]LogD3D11RHI:     SubSysId    : 12aa1462
+[2023.02.04-08.27.06:652][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.02.04-08.27.06:652][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2023.02.04-08.27.06:652][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.02.04-08.27.06:652][  0]LogD3D11RHI:     SharedSystemMemory : 8506892288 bytes
+[2023.02.04-08.27.06:652][  0]LogD3D11RHI:     AdapterLuid : 0 59347
+[2023.02.04-08.27.06:710][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.02.04-08.27.06:710][  0]LogD3D11RHI: Async texture creation enabled
+[2023.02.04-08.27.06:710][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.02.04-08.27.06:742][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.02.04-08.27.06:781][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.02.04-08.27.07:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.02.04-08.27.07:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.02.04-08.27.07:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.02.04-08.27.07:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.02.04-08.27.07:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.02.04-08.27.07:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.02.04-08.27.07:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.02.04-08.27.07:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.02.04-08.27.07:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.02.04-08.27.07:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.02.04-08.27.07:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.02.04-08.27.07:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.02.04-08.27.07:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.02.04-08.27.07:103][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.02.04-08.27.07:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.02.04-08.27.07:111][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.02.04-08.27.07:114][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.02.04-08.27.07:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.02.04-08.27.07:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.02.04-08.27.07:131][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.02.04-08.27.07:156][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.02.04-08.27.07:156][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.02.04-08.27.07:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.02.04-08.27.07:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.02.04-08.27.07:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.02.04-08.27.07:174][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.02.04-08.27.07:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.02.04-08.27.07:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.02.04-08.27.07:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.02.04-08.27.07:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.02.04-08.27.07:200][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.02.04-08.27.07:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.02.04-08.27.07:204][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.02.04-08.27.07:209][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.02.04-08.27.07:235][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.02.04-08.27.07:259][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.02.04-08.27.07:259][  0]LogShaderCompilers: Guid format shader working directory is -44 characters bigger than the processId version (../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Intermediate/Shaders/WorkingDirectory/13796/).
+[2023.02.04-08.27.07:260][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/adria/AppData/Local/Temp/UnrealShaderWorkingDir/733CDB7145CEEBD8C650978DEA1D534D/'.
+[2023.02.04-08.27.07:260][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.02.04-08.27.07:260][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.02.04-08.27.07:260][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.02.04-08.27.07:958][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.02.04-08.27.08:006][  0]LogDerivedDataCache: Loaded boot cache 0.05s 100MB C:/Users/adria/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.02.04-08.27.08:006][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/adria/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.02.04-08.27.08:006][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.02.04-08.27.08:006][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.02.04-08.27.08:006][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.04-08.27.08:007][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.02.04-08.27.08:021][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.02.04-08.27.08:021][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.04-08.27.08:021][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.02.04-08.27.08:031][  0]LogDerivedDataCache: Speed tests for C:/Users/adria/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.02.04-08.27.08:031][  0]LogDerivedDataCache: Display: Performance to C:/Users/adria/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=224.41MBs, RandomWriteSpeed=165.66MBs. Assigned SpeedClass 'Local'
+[2023.02.04-08.27.08:032][  0]LogDerivedDataCache: Using Local data cache path C:/Users/adria/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.02.04-08.27.08:032][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.02.04-08.27.08:032][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.02.04-08.27.08:075][  0]LogSlate: Using FreeType 2.10.0
+[2023.02.04-08.27.08:076][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.02.04-08.27.08:101][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2023.02.04-08.27.08:535][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.04-08.27.08:535][  0]LogInit: Active device profile: [0000018F6411D100][0000018F62403380 49] Windows
+[2023.02.04-08.27.08:535][  0]LogInit: Profiles: [0000018F6411D100][0000018F62403380 49] Windows, [0000018F640E2700][0000018F6240B640 49] WindowsNoEditor, [0000018F6411E200][0000018F6240F900 49] WindowsServer, [0000018F640E1900][0000018F62413BC0 49] WindowsClient, [0000018F6411D700][0000018F62416300 49] IOS, [0000018F640E2900][0000018F6241A5C0 49] iPadAir, [0000018F6411FC00][0000018F6241E880 49] iPadAir2, [0000018F64085400][0000018F6242ED80 49] IPadPro, [0000018F64085500][0000018F62422DC0 49] iPadAir3, [0000018F640E3A00][0000018F6242B080 49] iPadAir4, [0000018F64086300][0000018F62427340 49] iPadMini2, [0000018F640E3100][0000018F62433600 49] iPadMini3, [0000018F64086F00][0000018F624378C0 49] iPadMini4, [0000018F640E1E00][0000018F6243BB80 49] iPadMini5, [0000018F6409D000][0000018F61C40540 49] iPhone6, [0000018F6409D100][0000018F61C30580 49] iPodTouch6, [0000018F6411F900][0000018F61C48AC0 49] iPhone7, [0000018F6411E900][0000018F61C38B00 49] iPodTouch7, [0000018F64085000][0000018F62406D80 49] iPhone5S, [0000018F6411EF00][0000018F61C3D000 49] iPhone6Plus, [0000018F64087600][0000018F61C452C0 49] iPhone6S, [0000018F6411CC00][0000018F61C4D580 49] iPhone6SPlus, [0000018F6411DD00][0000018F61C51840 49] iPhone7Plus, [0000018F6409C800][0000018F61C55B00 49] iPhoneSE, [0000018F6411C400][0000018F61C58240 49] iPhone8, [0000018F6409C900][0000018F61C5C500 49] iPhone8Plus, [0000018F6409EE00][0000018F61C607C0 49] iPhoneX, [0000018F64085D00][0000018F61C64A80 49] iPhoneXS, [0000018F6409E700][0000018F61C68D40 49] iPhoneXSMax, [0000018F64085C00][0000018F61C34FC0 49] iPhoneXR, [0000018F6409E800][0000018F61C6D240 49] iPhone11, [0000018F64084F00][0000018F61C75500 49] iPhone11Pro, [0000018F6409CB00][0000018F61C797C0 49] iPhone11ProMax, [0000018F64084D00][0000018F61C7DA80 49] iPhoneSE2, [0000018F6409CE00][0000018F61C801C0 49] iPhone12Mini, [0000018F6411F800][0000018F61C84480 49] iPhone12, [0000018F6409F000][0000018F61C88740 49] iPhone12Pro, [0000018F6411F700][0000018F61C8CA00 49] iPhone12ProMax, [0000018F6409DE00][0000018F61C90CC0 49] iPadPro105, [0000018F6411D400][0000018F61C94F80 49] iPadPro129, [0000018F6409FE00][0000018F61C71200 49] iPadPro97, [0000018F6411DC00][0000018F61C99480 49] iPadPro2_129, [0000018F6409E000][0000018F61CA1740 49] iPad5, [0000018F6411E300][0000018F61CA5A00 49] iPad6, [0000018F6409FB00][0000018F61CA8140 49] iPad7, [0000018F6411DE00][0000018F61CAC400 49] iPad8, [0000018F6409CA00][0000018F61CB06C0 49] iPadPro11, [0000018F6411E600][0000018F61CB4980 49] iPadPro2_11, [0000018F6409CF00][0000018F61CB8C40 49] iPadPro3_129, [0000018F6411E800][0000018F61CBCF00 49] iPadPro4_129, [0000018F6409FC00][0000018F61CC11C0 49] AppleTV, [0000018F6411DA00][0000018F61C9D440 49] AppleTV4K, [0000018F6409E600][0000018F61CC56C0 49] TVOS, [0000018F6411E100][0000018F61CCD980 49] Mac, [0000018F6409EF00][0000018F61CD00C0 49] MacClient, [0000018F6411EA00][0000018F61CD4380 49] MacNoEditor, [0000018F6409EC00][0000018F61CD8640 49] MacServer, [0000018F6411F000][0000018F61CDC900 49] Linux, [0000018F6409C400][0000018F61CE0BC0 49] LinuxAArch64, [0000018F6411C700][0000018F61CE4E80 49] LinuxNoEditor, [0000018F6409F700][0000018F61CE9140 49] LinuxAArch64NoEditor, [0000018F6411FB00][0000018F61CED400 49] LinuxClient, [0000018F6409F400][0000018F61CC9680 49] LinuxAArch64Client, [0000018F6411FE00][0000018F61CF1900 49] LinuxServer, [0000018F6409C700][0000018F61CF9BC0 49] LinuxAArch64Server, [0000018F6411DF00][0000018F61CFC300 49] Android, [0000018F6409EA00][0000018F61D005C0 49] Android_Low, [0000018F6411ED00][0000018F61D04880 49] Android_Mid, [0000018F6409DF00][0000018F61D08B40 49] Android_High, [0000018F6411EB00][0000018F61D0CE00 49] Android_Default, [0000018F6409C200][0000018F61D110C0 49] Android_Adreno4xx, [0000018F6411C500][0000018F61D15380 49] Android_Adreno5xx_Low, [0000018F6409D400][0000018F61D19640 49] Android_Adreno5xx, [0000018F6411F400][0000018F61CF58C0 49] Android_Adreno6xx, [0000018F6409E300][0000018F61D1DB40 49] Android_Adreno6xx_Vulkan, [0000018F6411FD00][0000018F61D24280 49] Android_Mali_T6xx, [0000018F6409C100][0000018F61D28540 49] Android_Mali_T7xx, [0000018F6411F600][0000018F61D2C800 49] Android_Mali_T8xx, [0000018F6409F200][0000018F61D30AC0 49] Android_Mali_G71, [0000018F64087100][0000018F61D34D80 49] Android_Mali_G72, [0000018F640E2F00][0000018F61D39040 49] Android_Mali_G72_Vulkan, [0000018F64086B00][0000018F61D3D300 49] Android_Mali_G76, [0000018F640E0500][0000018F61D415C0 49] Android_Mali_G76_Vulkan, [0000018F64084C00][0000018F61D45880 49] Android_Mali_G77, [0000018F640E0B00][0000018F61D21B00 49] Android_Mali_G77_Vulkan, [0000018F64086400][0000018F61D48200 49] Android_Mali_G78, [0000018F640E0D00][0000018F61D504C0 49] Android_Mali_G78_Vulkan, [0000018F64087D00][0000018F61D54780 49] Android_Mali_G710, [0000018F640E2B00][0000018F61D58A40 49] Android_Mali_G710_Vulkan, [0000018F64086A00][0000018F61D5CD00 49] Android_Vulkan_SM5, [0000018F640E1A00][0000018F61D60FC0 49] Android_PowerVR_G6xxx, [0000018F64084500][0000018F61D65280 49] Android_PowerVR_GT7xxx, [0000018F640E0200][0000018F61D69540 49] Android_PowerVR_GE8xxx, [0000018F64087B00][0000018F61D6D800 49] Android_PowerVR_GM9xxx, [0000018F640E2100][0000018F61D71AC0 49] Android_PowerVR_GM9xxx_Vulkan, [0000018F64085F00][0000018F61D4C1C0 49] Android_TegraK1, [0000018F640E0A00][0000018F61DB4440 49] Android_Unknown_Vulkan, [0000018F64087900][0000018F61DBC700 49] Lumin, [0000018F640E1100][0000018F61DC09C0 49] Lumin_Desktop, [0000018F64086000][0000018F61DC4C80 49] HoloLens, 
+[2023.02.04-08.27.08:771][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.02.04-08.27.08:771][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.02.04-08.27.08:771][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.02.04-08.27.08:771][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.02.04-08.27.08:771][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.02.04-08.27.08:797][  0]LogNetVersion: GGJ_TomatitoPoject 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2499937808)
+[2023.02.04-08.27.09:441][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.02.04-08.27.09:531][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.02.04-08.27.09:543][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.02.04-08.27.09:543][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.02.04-08.27.09:543][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.02.04-08.27.09:970][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: A4D0F8B04FE2A6C2D740CDA1E523FD3E | Instance: F038844A47CC8DABBC73A0B1872F9BC6 (DESKTOP-6U7BAGV-13796).
+[2023.02.04-08.27.10:191][  0]LogPython: Using Python 3.7.7
+[2023.02.04-08.27.10:757][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.02.04-08.27.10:775][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.02.04-08.27.11:016][  0]SourceControl: Source control is disabled
+[2023.02.04-08.27.11:017][  0]SourceControl: Source control is disabled
+[2023.02.04-08.27.11:022][  0]SourceControl: Source control is disabled
+[2023.02.04-08.27.11:025][  0]SourceControl: Source control is disabled
+[2023.02.04-08.27.11:109][  0]SourceControl: Source control is disabled
+[2023.02.04-08.27.11:118][  0]LogUProjectInfo: Found projects:
+[2023.02.04-08.27.11:177][  0]LogOpenImageDenoise: OIDN starting up
+[2023.02.04-08.27.11:195][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.02.04-08.27.11:218][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.04-08.27.11:218][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.04-08.27.11:363][  0]LogCollectionManager: Loaded 0 collections in 0.003307 seconds
+[2023.02.04-08.27.11:412][  0]LogFileCache: Scanning file cache for directory 'C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Collections/' took 0.00s
+[2023.02.04-08.27.11:412][  0]LogFileCache: Scanning file cache for directory 'C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Developers/adria/Collections/' took 0.00s
+[2023.02.04-08.27.11:412][  0]LogFileCache: Scanning file cache for directory 'C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Collections/' took 0.00s
+[2023.02.04-08.27.11:412][  0]LogOcInput: OculusInput pre-init called
+[2023.02.04-08.27.11:769][  0]LogEngine: Initializing Engine...
+[2023.02.04-08.27.11:782][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.02.04-08.27.11:782][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.02.04-08.27.11:783][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.02.04-08.27.11:783][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.02.04-08.27.11:893][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.02.04-08.27.11:902][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.02.04-08.27.11:913][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.02.04-08.27.11:916][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.02.04-08.27.11:917][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.02.04-08.27.11:917][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.02.04-08.27.11:918][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.02.04-08.27.11:918][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-08.27.11:918][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-08.27.11:918][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-08.27.11:918][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-08.27.11:918][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.04-08.27.11:918][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.04-08.27.11:918][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.04-08.27.11:918][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-08.27.11:918][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-08.27.11:918][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-08.27.11:918][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-08.27.11:918][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.04-08.27.11:935][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.04-08.27.11:935][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.02.04-08.27.11:972][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2023.02.04-08.27.11:974][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-08.27.11:976][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-08.27.11:976][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-08.27.11:977][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.04-08.27.11:977][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.04-08.27.11:977][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.04-08.27.11:978][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.04-08.27.11:978][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.04-08.27.11:978][  0]LogInit: FAudioDevice initialized.
+[2023.02.04-08.27.11:978][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.02.04-08.27.11:978][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.02.04-08.27.12:067][  0]LogDerivedDataCache: Saved boot cache 0.09s 94MB C:/Users/adria/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.02.04-08.27.12:071][  0]LogInit: Texture streaming: Enabled
+[2023.02.04-08.27.12:086][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.02.04-08.27.12:090][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.02.04-08.27.12:090][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.02.04-08.27.12:092][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.02.04-08.27.12:111][  0]LogInit: Transaction tracking system initialized
+[2023.02.04-08.27.12:134][  0]BlueprintLog: New page: Editor Load
+[2023.02.04-08.27.12:185][  0]LocalizationService: Localization service is disabled
+[2023.02.04-08.27.12:206][  0]TimingProfiler: Initialize
+[2023.02.04-08.27.12:206][  0]TimingProfiler: OnSessionChanged
+[2023.02.04-08.27.12:206][  0]LoadingProfiler: Initialize
+[2023.02.04-08.27.12:206][  0]LoadingProfiler: OnSessionChanged
+[2023.02.04-08.27.12:206][  0]NetworkingProfiler: Initialize
+[2023.02.04-08.27.12:206][  0]NetworkingProfiler: OnSessionChanged
+[2023.02.04-08.27.12:206][  0]MemoryProfiler: Initialize
+[2023.02.04-08.27.12:206][  0]MemoryProfiler: OnSessionChanged
+[2023.02.04-08.27.12:367][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.02.04-08.27.12:367][  0]LogCook: Display: Mobile HDR setting 1
+[2023.02.04-08.27.12:561][  0]LogFileCache: Scanning file cache for directory 'C:/Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/' took 0.00s
+[2023.02.04-08.27.12:844][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.02.04-08.27.12:848][  0]SourceControl: Source control is disabled
+[2023.02.04-08.27.12:848][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.894
+[2023.02.04-08.27.12:849][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.04-08.27.12:849][  0]LightingResults: New page: Lighting Build
+[2023.02.04-08.27.12:850][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-08.27.12:850][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-08.27.12:850][  0]MapCheck: New page: Map Check
+[2023.02.04-08.27.12:850][  0]LightingResults: New page: Lighting Build
+[2023.02.04-08.27.12:857][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-08.27.12:860][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.02.04-08.27.12:915][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2023.02.04-08.27.12:923][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2023.02.04-08.27.12:924][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2023.02.04-08.27.12:929][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.04-08.27.12:940][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.02.04-08.27.12:940][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.04-08.27.12:940][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,232ms to complete.
+[2023.02.04-08.27.12:940][  0]LogFileHelpers: Loading map 'Template_Default' took 0.092
+[2023.02.04-08.27.12:942][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.988
+[2023.02.04-08.27.13:079][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-08.27.13:086][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-08.27.13:092][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-08.27.13:098][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-08.27.13:131][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0087 seconds. Added 3822 classes and 928 folders.
+[2023.02.04-08.27.13:153][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.02.04-08.27.13:159][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.04-08.27.13:159][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:159][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.04-08.27.13:159][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:159][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.02.04-08.27.13:159][  0]LogPakFile: OnPakFileMounted2Time == 0.000299
+[2023.02.04-08.27.13:162][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.04-08.27.13:162][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:162][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.04-08.27.13:162][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:162][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.02.04-08.27.13:162][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.02.04-08.27.13:165][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.02.04-08.27.13:165][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:165][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.02.04-08.27.13:165][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:165][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.02.04-08.27.13:165][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2023.02.04-08.27.13:166][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.04-08.27.13:166][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:166][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.04-08.27.13:166][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:166][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.02.04-08.27.13:166][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.02.04-08.27.13:168][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.04-08.27.13:168][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:168][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.04-08.27.13:168][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:168][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.02.04-08.27.13:168][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2023.02.04-08.27.13:169][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.04-08.27.13:169][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:169][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.04-08.27.13:169][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:169][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.02.04-08.27.13:169][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2023.02.04-08.27.13:171][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.04-08.27.13:171][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:171][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.04-08.27.13:171][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:171][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.02.04-08.27.13:171][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2023.02.04-08.27.13:172][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.04-08.27.13:172][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:172][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.04-08.27.13:172][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:172][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.02.04-08.27.13:172][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2023.02.04-08.27.13:174][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.04-08.27.13:174][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:174][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.04-08.27.13:174][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:174][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.02.04-08.27.13:174][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2023.02.04-08.27.13:177][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.04-08.27.13:177][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:177][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.04-08.27.13:177][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:177][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.02.04-08.27.13:177][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2023.02.04-08.27.13:179][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.04-08.27.13:179][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:179][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.04-08.27.13:179][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:179][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.02.04-08.27.13:179][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2023.02.04-08.27.13:180][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.04-08.27.13:180][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:180][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.04-08.27.13:180][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:180][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.02.04-08.27.13:180][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2023.02.04-08.27.13:182][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.04-08.27.13:182][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:182][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.04-08.27.13:182][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:182][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.02.04-08.27.13:182][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2023.02.04-08.27.13:183][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.04-08.27.13:183][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:183][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.04-08.27.13:183][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:183][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.02.04-08.27.13:183][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2023.02.04-08.27.13:185][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.04-08.27.13:185][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:185][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.04-08.27.13:185][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:185][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.02.04-08.27.13:185][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2023.02.04-08.27.13:187][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.04-08.27.13:187][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:187][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.04-08.27.13:187][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:187][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.02.04-08.27.13:187][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2023.02.04-08.27.13:188][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.04-08.27.13:188][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:188][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.04-08.27.13:188][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:188][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.02.04-08.27.13:188][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2023.02.04-08.27.13:190][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.04-08.27.13:190][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:190][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.04-08.27.13:190][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:190][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.02.04-08.27.13:190][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.02.04-08.27.13:191][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.04-08.27.13:191][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:191][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.04-08.27.13:192][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:192][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.02.04-08.27.13:192][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.02.04-08.27.13:193][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.04-08.27.13:193][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:193][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.04-08.27.13:193][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:193][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.02.04-08.27.13:193][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2023.02.04-08.27.13:195][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.04-08.27.13:195][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:195][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.04-08.27.13:195][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:195][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.02.04-08.27.13:195][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2023.02.04-08.27.13:196][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.04-08.27.13:196][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:196][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.04-08.27.13:196][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:196][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.02.04-08.27.13:196][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2023.02.04-08.27.13:198][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.02.04-08.27.13:198][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:198][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.02.04-08.27.13:198][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:198][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.02.04-08.27.13:198][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2023.02.04-08.27.13:200][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.04-08.27.13:200][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:200][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.04-08.27.13:200][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:200][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.02.04-08.27.13:200][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2023.02.04-08.27.13:201][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.04-08.27.13:201][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:201][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.04-08.27.13:201][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:201][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.02.04-08.27.13:201][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2023.02.04-08.27.13:203][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.04-08.27.13:203][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.04-08.27.13:203][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.04-08.27.13:203][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.04-08.27.13:203][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.02.04-08.27.13:203][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2023.02.04-08.27.13:393][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2023.02.04-08.27.13:669][  0]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.04-08.27.13:672][  0]LogSlate: Took 0.001216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.04-08.27.13:677][  0]LogSlate: Took 0.000473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.04-08.27.13:770][  0]LogRenderer: Reallocating scene render targets to support 908x432 Format 10 NumSamples 1 (Frame:1).
+[2023.02.04-08.27.13:920][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2023.02.04-08.27.13:920][  0]LogLoad: (Engine Initialization) Total time: 8.97 seconds
+[2023.02.04-08.27.13:920][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.04-08.27.13:973][  0]LogAssetRegistry: Asset discovery search completed in 5.8728 seconds
+[2023.02.04-08.27.13:979][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2023.02.04-08.27.13:981][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.04-08.27.14:160][  2]LogSlate: Took 0.001459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.04-08.27.38:130][296]LogLinker: Warning: Asset '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/GameManager.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.02.04-08.27.38:135][296]LogLinker: Warning: Asset '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/MainMenu/PauseMenuWidget.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.02.04-08.27.38:232][296]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.04-08.27.38:361][296]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gameplay/BattleActor.BattleActor
+[2023.02.04-08.27.38:622][296]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2023.02.04-08.27.39:470][296]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.04-08.27.39:510][296]LogSlate: Took 0.006121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.04-08.27.41:542][336]LogSlate: Window 'BattleActor' being destroyed
+[2023.02.04-08.27.43:196][381]LogSlate: Took 0.000768 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.04-08.29.32:234][154]BlueprintLog: New page: Compile BattleActor
+[2023.02.04-08.29.32:287][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.02.04-08.29.32:891][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/BattleActor" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset" SILENT=true
+[2023.02.04-08.29.32:930][165]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/BattleActorD2169D57461CAF5FAB2F40A308D9D11D.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset'
+[2023.02.04-08.29.33:001][165]AssetCheck: New page: Asset Save: BattleActor
+[2023.02.04-08.29.33:001][165]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/BattleActor.BattleActor
+[2023.02.04-08.30.25:019][392]BlueprintLog: New page: Compile BattleActor
+[2023.02.04-08.30.25:071][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.02.04-08.30.25:742][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/BattleActor" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset" SILENT=true
+[2023.02.04-08.30.25:776][404]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/BattleActorF2EFE8BA42ACA8ABFAFEC1AC9FA3201A.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset'
+[2023.02.04-08.30.25:853][404]AssetCheck: New page: Asset Save: BattleActor
+[2023.02.04-08.30.25:853][404]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/BattleActor.BattleActor
+[2023.02.04-08.31.06:480][388]BlueprintLog: New page: Compile BattleActor
+[2023.02.04-08.31.06:532][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.02.04-08.31.07:026][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/BattleActor" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset" SILENT=true
+[2023.02.04-08.31.07:062][396]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/BattleActor4B4C42274F81D59F907F59B6BFF8DAC1.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset'
+[2023.02.04-08.31.07:136][396]AssetCheck: New page: Asset Save: BattleActor
+[2023.02.04-08.31.07:136][396]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/BattleActor.BattleActor
+[2023.02.04-08.31.07:865][414]LogRenderer: Reallocating scene render targets to support 912x536 Format 10 NumSamples 1 (Frame:1).
+[2023.02.04-08.31.46:170][234]BlueprintLog: New page: Compile BattleActor
+[2023.02.04-08.31.46:223][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.02.04-08.31.46:774][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/BattleActor" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset" SILENT=true
+[2023.02.04-08.31.46:811][244]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/BattleActor88D5B92946EB0262485603893434527C.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset'
+[2023.02.04-08.31.46:883][244]AssetCheck: New page: Asset Save: BattleActor
+[2023.02.04-08.31.46:883][244]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/BattleActor.BattleActor
+[2023.02.04-08.33.12:875][166]BlueprintLog: New page: Compile BattleActor
+[2023.02.04-08.33.12:929][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.02.04-08.33.13:359][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/BattleActor" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset" SILENT=true
+[2023.02.04-08.33.13:398][173]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/BattleActorC0709F25467E6E0195A65A8F0AB1053A.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset'
+[2023.02.04-08.33.13:468][173]AssetCheck: New page: Asset Save: BattleActor
+[2023.02.04-08.33.13:468][173]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/BattleActor.BattleActor
+[2023.02.04-08.33.19:798][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/BattleActor" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset" SILENT=true
+[2023.02.04-08.33.19:836][326]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/BattleActorB4FA593F4E989EBC41D9F79808B7BBE8.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset'
+[2023.02.04-08.33.19:908][326]AssetCheck: New page: Asset Save: BattleActor
+[2023.02.04-08.33.19:908][326]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/BattleActor.BattleActor
+[2023.02.04-08.34.27:105][  4]BlueprintLog: New page: Compile BattleActor
+[2023.02.04-08.34.27:157][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.02.04-08.34.27:733][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/BattleActor" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset" SILENT=true
+[2023.02.04-08.34.27:771][ 14]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/BattleActorAE5823CF4678A086B013209AF81054A9.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset'
+[2023.02.04-08.34.27:843][ 14]AssetCheck: New page: Asset Save: BattleActor
+[2023.02.04-08.34.27:843][ 14]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/BattleActor.BattleActor
+[2023.02.04-08.35.04:501][186]LogSlate: Took 0.005047 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.02.04-08.35.41:688][765]BlueprintLog: New page: Compile BattleActor
+[2023.02.04-08.35.41:758][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.02.04-08.35.42:388][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/BattleActor" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset" SILENT=true
+[2023.02.04-08.35.42:427][775]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/BattleActorDC81703E44594F27417D44BE66A461A5.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset'
+[2023.02.04-08.35.42:496][775]AssetCheck: New page: Asset Save: BattleActor
+[2023.02.04-08.35.42:496][775]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/BattleActor.BattleActor
+[2023.02.04-08.39.34:101][792]BlueprintLog: New page: Compile BattleActor
+[2023.02.04-08.39.34:170][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.02.04-08.39.34:702][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/BattleActor" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset" SILENT=true
+[2023.02.04-08.39.34:744][800]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/BattleActor1D02C42D413C31F25CE26CB7E2C48D70.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset'
+[2023.02.04-08.39.34:812][800]AssetCheck: New page: Asset Save: BattleActor
+[2023.02.04-08.39.34:812][800]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/BattleActor.BattleActor
+[2023.02.04-08.40.48:194][833]BlueprintLog: New page: Compile BattleActor
+[2023.02.04-08.40.48:264][833]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2023.02.04-08.40.48:928][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/BattleActor" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset" SILENT=true
+[2023.02.04-08.40.48:978][843]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/BattleActorACC0B36F44D13A97C9C702B30972AB58.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset'
+[2023.02.04-08.40.49:040][843]AssetCheck: New page: Asset Save: BattleActor
+[2023.02.04-08.40.49:040][843]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/BattleActor.BattleActor
+[2023.02.04-08.41.12:282][351]BlueprintLog: New page: Compile BattleActor
+[2023.02.04-08.41.12:352][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2023.02.04-08.41.12:867][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/BattleActor" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset" SILENT=true
+[2023.02.04-08.41.12:918][359]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/BattleActorE0AE41BD41488C928FDAB1A9CDD8C131.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset'
+[2023.02.04-08.41.12:977][359]AssetCheck: New page: Asset Save: BattleActor
+[2023.02.04-08.41.12:977][359]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/BattleActor.BattleActor
+[2023.02.04-08.42.59:275][109]BlueprintLog: New page: Compile BattleActor
+[2023.02.04-08.42.59:345][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.02.04-08.42.59:858][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/BattleActor" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset" SILENT=true
+[2023.02.04-08.42.59:909][116]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/BattleActorB6602AFB4A09B5B4CEC5B2AF60938E4A.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset'
+[2023.02.04-08.42.59:969][116]AssetCheck: New page: Asset Save: BattleActor
+[2023.02.04-08.42.59:969][116]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/BattleActor.BattleActor
+[2023.02.04-08.43.49:391][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/BattleActor" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset" SILENT=true
+[2023.02.04-08.43.49:443][151]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/BattleActorDC32C05648B970E15E7E01BF7FDA02AF.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset'
+[2023.02.04-08.43.49:502][151]AssetCheck: New page: Asset Save: BattleActor
+[2023.02.04-08.43.49:502][151]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/BattleActor.BattleActor
+[2023.02.04-08.43.50:091][162]BlueprintLog: New page: Compile BattleActor
+[2023.02.04-08.43.50:159][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.02.04-08.44.19:978][937]BlueprintLog: New page: Compile BattleActor
+[2023.02.04-08.44.20:049][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.02.04-08.44.20:768][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/BattleActor" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset" SILENT=true
+[2023.02.04-08.44.20:820][947]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/BattleActorEC42CACF4DCB5138CC37D8B102C1C058.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset'
+[2023.02.04-08.44.20:878][947]AssetCheck: New page: Asset Save: BattleActor
+[2023.02.04-08.44.20:878][947]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/BattleActor.BattleActor
+[2023.02.04-08.44.21:768][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/BattleActor" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset" SILENT=true
+[2023.02.04-08.44.21:818][964]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/BattleActor067AAE8B49F746C074C7A8BE7D65C986.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset'
+[2023.02.04-08.44.21:878][964]AssetCheck: New page: Asset Save: BattleActor
+[2023.02.04-08.44.21:878][964]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/BattleActor.BattleActor
+[2023.02.04-08.46.04:446][128]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.02.04-08.46.04:446][128]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.068
+[2023.02.04-08.46.04:448][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Gameplay/BattleActor] ([2] browsable assets)...
+[2023.02.04-08.46.04:448][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Gameplay/BattleActor]
+[2023.02.04-08.46.04:496][128]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/BattleActor_Auto14C4D542C4AF14978D7B778B4A6D4B38E.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Autosaves/Game/Gameplay/BattleActor_Auto1.uasset'
+[2023.02.04-08.46.04:497][128]LogFileHelpers: Auto-saving content packages took 0.050
+[2023.02.04-08.47.02:270][617]BlueprintLog: New page: Compile BattleActor
+[2023.02.04-08.47.02:340][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.02.04-08.47.02:861][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/BattleActor" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset" SILENT=true
+[2023.02.04-08.47.02:914][625]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/BattleActorE5BDEEF44BDFAD3A0BD85991605EA327.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset'
+[2023.02.04-08.47.02:973][625]AssetCheck: New page: Asset Save: BattleActor
+[2023.02.04-08.47.02:973][625]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/BattleActor.BattleActor
+[2023.02.04-08.47.21:750][ 27]BlueprintLog: New page: Compile BattleActor
+[2023.02.04-08.47.21:821][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.02.04-08.47.22:372][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/BattleActor" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset" SILENT=true
+[2023.02.04-08.47.22:422][ 36]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/BattleActor183D2EA6406A28E58FA8D0B4635559E0.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset'
+[2023.02.04-08.47.22:482][ 36]AssetCheck: New page: Asset Save: BattleActor
+[2023.02.04-08.47.22:482][ 36]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/BattleActor.BattleActor
+[2023.02.04-08.47.48:554][529]BlueprintLog: New page: Compile BattleActor
+[2023.02.04-08.47.48:624][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.02.04-08.48.08:876][271]BlueprintLog: New page: Compile BattleActor
+[2023.02.04-08.48.08:936][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.02.04-08.48.09:320][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/BattleActor" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset" SILENT=true
+[2023.02.04-08.48.09:373][281]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/BattleActor21D07EC54A85DD917CD8658569DE1A2D.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset'
+[2023.02.04-08.48.09:402][281]AssetCheck: New page: Asset Save: BattleActor
+[2023.02.04-08.48.09:402][281]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/BattleActor.BattleActor
+[2023.02.04-08.48.18:993][621]BlueprintLog: New page: Compile BattleActor
+[2023.02.04-08.48.19:055][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.02.04-08.48.19:724][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/BattleActor" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset" SILENT=true
+[2023.02.04-08.48.19:778][643]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/BattleActor02848DB74CCBE3D8735669A63117CDFA.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset'
+[2023.02.04-08.48.19:807][643]AssetCheck: New page: Asset Save: BattleActor
+[2023.02.04-08.48.19:807][643]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/BattleActor.BattleActor
+[2023.02.04-08.48.47:604][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/BattleActor" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset" SILENT=true
+[2023.02.04-08.48.47:659][918]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/BattleActorE062DA35488635CB97BF7AA789CE081F.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/BattleActor.uasset'
+[2023.02.04-08.48.47:689][918]AssetCheck: New page: Asset Save: BattleActor
+[2023.02.04-08.48.47:689][918]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/BattleActor.BattleActor
+[2023.02.04-08.49.10:428][838]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gameplay/GameManager.GameManager
+[2023.02.04-08.49.49:942][983]BlueprintLog: New page: Compile GameManager
+[2023.02.04-08.49.50:008][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.02.04-08.49.50:445][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/GameManager" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/GameManager.uasset" SILENT=true
+[2023.02.04-08.49.50:477][994]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/GameManagerA5F3852F421BA74A5D63D585AB4F083A.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/GameManager.uasset'
+[2023.02.04-08.49.50:504][994]AssetCheck: New page: Asset Save: GameManager
+[2023.02.04-08.49.50:504][994]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/GameManager.GameManager
+[2023.02.04-08.50.26:311][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/GameManager" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/GameManager.uasset" SILENT=true
+[2023.02.04-08.50.26:342][ 46]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/GameManagerD4EFD5174F18D311487EE7AF6EDB6BBD.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/GameManager.uasset'
+[2023.02.04-08.50.26:369][ 46]AssetCheck: New page: Asset Save: GameManager
+[2023.02.04-08.50.26:369][ 46]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/GameManager.GameManager
+[2023.02.04-08.50.38:431][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.02.04-08.50.38:533][336]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MapBasic.MapBasic
+[2023.02.04-08.50.38:534][336]Cmd: MAP LOAD FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Levels/MapBasic.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.04-08.50.38:534][336]LightingResults: New page: Lighting Build
+[2023.02.04-08.50.38:536][336]LoadErrors: New page: Loading map: MapBasic.umap
+[2023.02.04-08.50.38:537][336]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-08.50.38:537][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-08.50.38:537][336]MapCheck: New page: Map Check
+[2023.02.04-08.50.38:537][336]LightingResults: New page: Lighting Build
+[2023.02.04-08.50.38:562][336]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-08.50.38:567][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.02.04-08.50.38:567][336]LogAudio: Display: Audio Device (ID: 1) registered with world 'MapBasic'.
+[2023.02.04-08.50.38:635][336]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.04-08.50.38:635][336]LogAIModule: Creating AISystem for world MapBasic
+[2023.02.04-08.50.38:664][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.02.04-08.50.38:666][336]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.04-08.50.38:666][336]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,156ms to complete.
+[2023.02.04-08.50.38:666][336]LogFileHelpers: Loading map 'MapBasic' took 0.132
+[2023.02.04-08.50.51:273][592]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.02.04-08.51.01:173][804]LogSlate: Window 'Project Settings' being destroyed
+[2023.02.04-08.51.25:561][313]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-08.51.28:626][313]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.02.04-08.51.28:649][313]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.02.04-08.51.28:664][313]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.02.04-08.51.41:257][691]LogContentBrowser: Attempting asset rename: NewBlueprint -> Projectile
+[2023.02.04-08.51.41:263][691]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.02.04-08.51.44:388][772]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gameplay/Projectile.Projectile
+[2023.02.04-08.52.29:797][165]BlueprintLog: New page: Compile Projectile
+[2023.02.04-08.52.29:890][165]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2023.02.04-08.52.36:050][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/Projectile" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/Projectile.uasset" SILENT=true
+[2023.02.04-08.52.36:055][286]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Projectile21A4A1214E688A7794238CB40EE6AE51.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/Projectile.uasset'
+[2023.02.04-08.52.36:161][286]AssetCheck: New page: Asset Save: Projectile
+[2023.02.04-08.52.36:161][286]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Projectile.Projectile
+[2023.02.04-08.52.50:945][686]BlueprintLog: New page: Compile Projectile
+[2023.02.04-08.52.51:018][686]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2023.02.04-08.52.51:613][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/Projectile" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/Projectile.uasset" SILENT=true
+[2023.02.04-08.52.51:618][694]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/ProjectileBC6A05F74A4E47A07639F09276EA227F.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/Projectile.uasset'
+[2023.02.04-08.52.51:724][694]AssetCheck: New page: Asset Save: Projectile
+[2023.02.04-08.52.51:724][694]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Projectile.Projectile
+[2023.02.04-08.53.57:278][738]BlueprintLog: New page: Compile Projectile
+[2023.02.04-08.53.57:324][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.02.04-08.53.57:657][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gameplay/Projectile" FILE="../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/Projectile.uasset" SILENT=true
+[2023.02.04-08.53.57:662][775]LogSavePackage: Moving '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Saved/Projectile7AC4B01C410AABC0CC88D9BCF4318817.tmp' to '../../../../../../Users/adria/Desktop/Universidad/GameJam/GGJ_Tomatito/GGJ_TomatitoPoject/Content/Gameplay/Projectile.uasset'
+[2023.02.04-08.53.57:673][775]AssetCheck: New page: Asset Save: Projectile
+[2023.02.04-08.53.57:673][775]LogContentValidation: Display: Validating Blueprint /Game/Gameplay/Projectile.Projectile
+[2023.02.04-08.53.59:263][962]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-08.53.59:263][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-08.54.02:419][315]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Gameplay/Projectile.Projectile
